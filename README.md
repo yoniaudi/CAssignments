@@ -1,2 +1,2 @@
 # CAssignments
-Some basic C Assignments
+Some basic C assignments
